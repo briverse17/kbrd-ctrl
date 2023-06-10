@@ -3,17 +3,19 @@ Keyboard Control
 
 Control your keyboard programmatically
 
+---
+
 Use cases:
 
-    Your (laptop) physical keyboard has been broken: circuit damage after dropping (the real reason why this repo turned up)
+> Your (laptop) physical keyboard has been broken: circuit damage after dropping (the real reason why this repo turned up)
 
-Usages:
+Usage:
 
-    TODO
+0. TODO
 
 Installation:
 
-    TODO
+0. TODO
 
 ---
 
